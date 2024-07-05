@@ -1,16 +1,19 @@
+
+body {
+    background-image: url("/images/Ghost.jpg");
+    background-image: blur(50px);
+}
+
+
 p{
 font-size: large; 
 }
 
-#images {
-    display: flex;
-    align-content: center;
-    justify-content: flex-start;
-    align-items: stretch;
-    flex-wrap: nowrap;
-    flex-direction: row;
-}
+
+
+
+
     
-}
+
 
 
